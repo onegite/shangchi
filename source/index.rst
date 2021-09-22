@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 123Movies Watch Shang-Chi and the Legend of the Ten Rings (2021) Movie Online Full Free Streaming's documentation!
+123Movies Watch Shang-Chi and the Legend of the Ten Rings (2021) Movie Online Full Free Streaming's
 =============================================================================================================================
 
 .. toctree::
